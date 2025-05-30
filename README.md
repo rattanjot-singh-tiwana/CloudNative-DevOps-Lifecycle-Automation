@@ -16,34 +16,6 @@ The result is a production-grade, self-managed microservices platform that follo
 
 ---
 
-## 📚 Table of Contents
-
-- [About](#about)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [CI/CD Pipeline](#cicd-pipeline)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
-## 📖 About
-
-Describe what your project does and who it’s for. Include goals and context.
-
----
-
-## ✨ Features
-
-- ✅ Feature 1
-- ✅ Feature 2
-- 🔐 Secure and scalable
-- 📦 Containerized with Docker
-
----
-
 ## 🧰 Tech Stack
 
 | Tool | Purpose |
@@ -56,13 +28,3 @@ Describe what your project does and who it’s for. Include goals and context.
 
 ---
 
-## 🛠️ Getting Started
-
-### Prerequisites
-- Docker installed
-- Terraform installed
-- AWS CLI configured
-
-```bash
-git clone https://github.com/your-username/your-repo
-cd your-repo
