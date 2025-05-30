@@ -25,6 +25,7 @@ The result is a production-grade, self-managed microservices platform that follo
 | **GitHub Actions** | CI/CD |
 | **Terraform** | Infrastructure as Code |
 | **AWS EKS/EC2** | Deployment & Hosting |
+| **ArgoCD** | Gitops |
 
 ---
 
