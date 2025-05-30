@@ -13,6 +13,7 @@ GitOps-based deployment management with Argo CD
 CI/CD pipeline automation through GitHub Actions
 
 The result is a production-grade, self-managed microservices platform that follows best practices in GitOps, infrastructure as code (IaC), and secure cloud-native DevOps, with custom domain routing via AWS Route 53 and Kubernetes Ingress
+
 ---
 
 ## 📚 Table of Contents
